@@ -52,6 +52,10 @@ cd tmsd
 make install
 ```
 
+Then add to the file `~/.vnc/xstartup` The following :
+
+`mate-session &`
+
 # How to use? 
 
 Go to System > Personal > Default applications 
