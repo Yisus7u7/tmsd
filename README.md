@@ -25,7 +25,7 @@ tmsd (termux-mate-settings-daemon) It is a configuration daemon (unofficial) for
 
 # Notes 
  
-Even though xfwm4 is used, for some reason the optimization is still hight.
+Even though xfwm4 is used, for some reason the optimization is still hight, has a very good performance.
 
 When changing a gtk or font theme, you must restart the vnc section or server (close and reopen it) for your changes to be successfully uploaded.
 
