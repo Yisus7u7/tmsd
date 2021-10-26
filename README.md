@@ -15,13 +15,13 @@ tmsd (termux-mate-settings-daemon) It is a configuration daemon (unofficial) for
 ## Components used
 
 - Notification daemon: lxqt-notificationd
-- Settings daemon: tmsd (use other apps to work)
+- Settings daemon: tmsd (using other apps to work)
 - Desktop service: xfdesktop
 - Window manager: xfwm4
 
 ## GUI settings App 
 
-- Use python and tkinter backend
+- Using python and tkinter backend
 
 # Notes 
  
@@ -84,7 +84,7 @@ Any bug or suggestion can be reported [here](https://github.com/Yisus7u7/tmsd/is
 # Donate 
 
 If you want to support the development of this project 
-You can donate [here](https://www.paypal.me/Jesús Chapman) will be appreciated.
+You can donate [here](https://www.paypal.me/JesúsChapman) will be appreciated.
 
 # Contact 
 
