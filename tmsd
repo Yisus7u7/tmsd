@@ -1,0 +1,3 @@
+#!/data/data/com.termux/files/usr/bin/bash
+echo "Launching Settings Daemon..."
+exec /data/data/com.termux/files/usr/lib/lib-termux-mate-settings-daemon.so

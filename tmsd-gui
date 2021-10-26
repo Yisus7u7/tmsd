@@ -1,0 +1,5 @@
+#!/data/data/com.termux/files/usr/bin/bash
+PROGRAM_ROOT="/data/data/com.termux/files/usr/share/tmsd"
+cd $PROGRAM_ROOT
+python3 mainwindow.py
+cd -

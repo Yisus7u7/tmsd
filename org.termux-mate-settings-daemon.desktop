@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=TMSD (termux-mate-settings-daemon)
+Exec=/data/data/com.termux/files/usr/lib/lib-termux-mate-settings-daemon.so
+OnlyShowIn=MATE;
+X-MATE-Autostart-Phase=Initialization
+X-MATE-Autostart-Notify=true
+X-MATE-AutoRestart=true
+NoDisplay=true
+Hidden=true

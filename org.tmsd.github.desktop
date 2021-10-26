@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Mate Settings
+Comment=No-Official settings app for mate (termux)
+Exec=tmsd-gui
+Icon=desktop-environment-mate
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=GTK;Settings;X-MATE-Settings;
+Keywords=MATE;settings;themes;applications;login;start;
+OnlyShowIn=MATE;
