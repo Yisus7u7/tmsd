@@ -37,7 +37,7 @@ When changing a gtk or font theme, you must restart the vnc section or server (c
 
 ```bash
 pkg update && pkg upgrade
-pkg install lxappearance clang python-tkinter qt5ct xfdesktop xfce4-settings xfwm4 mate-*
+pkg install lxappearance clang make python-tkinter qt5ct xfdesktop xfce4-settings xfwm4 mate-*
 
 # Recommend (for fine work) 
 
