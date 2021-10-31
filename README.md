@@ -88,7 +88,7 @@ Any bug or suggestion can be reported [here](https://github.com/Yisus7u7/tmsd/is
 # Donate 
 
 If you want to support the development of this project 
-You can donate [here](https://www.paypal.me/JesúsChapman) will be appreciated.
+You can donate [here](https://paypal.me/JesusChapman) will be appreciated.
 
 # Contact 
 
