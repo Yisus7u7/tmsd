@@ -14,7 +14,7 @@ tmsd (termux-mate-settings-daemon) It is a configuration daemon (unofficial) for
 
 ## Components used
 
-- Notification daemon: lxqt-notificationd
+- Notification daemon: xfce4-notifyd
 - Settings daemon: tmsd (using other apps to work)
 - Desktop service: xfdesktop
 - Window manager: xfwm4
@@ -37,7 +37,7 @@ When changing a gtk or font theme, you must restart the vnc section or server (c
 
 ```bash
 pkg update && pkg upgrade
-pkg install lxappearance libxtst clang make python-tkinter qt5ct xfdesktop xfce4-settings xfwm4 mate-*
+pkg install lxappearance libxtst clang make python-tkinter qt5ct xfdesktop xfce4-settings xfwm4 mate-* xfce4-notifyd
 
 # Recommend (for fine work) 
 
